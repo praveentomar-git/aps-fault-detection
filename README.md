@@ -13,3 +13,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+```
+testing for git push and pull command if changes made on git & vs code paralelly
+```
